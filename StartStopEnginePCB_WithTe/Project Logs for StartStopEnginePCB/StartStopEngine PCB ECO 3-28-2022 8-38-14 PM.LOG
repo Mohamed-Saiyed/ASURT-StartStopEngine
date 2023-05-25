@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetC?_2 Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Y?-2
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=StartStopEngine Member=Component C? C1206C130J1GACTU
+Added Member To Class: ClassName=StartStopEngine Member=Component J 5747840-6

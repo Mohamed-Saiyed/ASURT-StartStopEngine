@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Added Component: Designator=NT(Net_Tie)
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Member To Class: ClassName=StartStopEngine Member=Component NT Net_Tie
+Added Room: Name=StartStopEngine

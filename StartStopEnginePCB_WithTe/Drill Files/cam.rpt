@@ -1,0 +1,22 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: E:\Racing Team\Formula Student UK\FUSK 2022\Start_Stop Engine\StartStopEnginePCB\Drill Files\cam.drl
+Format: 4.3
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.6300		2
+ 2 		0.7100		3
+ 3 		0.7110		79
+ 4 		0.8000		24
+ 5 		0.9000		9
+ 7 		1.0410		15
+ 8 		1.1000		8
+ 9 		1.2900		2
+ 10 		1.3200		8
+ 11 		3.2510		2
+ 12 		3.0000		4

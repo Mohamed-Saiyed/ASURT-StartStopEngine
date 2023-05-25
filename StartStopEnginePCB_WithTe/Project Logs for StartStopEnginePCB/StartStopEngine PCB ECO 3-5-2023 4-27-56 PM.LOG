@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=J-S1
+Removed Pin From Net: NetName=GND Pin=J-S2
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Removed Pin From Net: NetName=StarterMotorRelayPositive Pin=U5-4
+Added Pin To Net: NetName=+5 Pin=U5-4
+Added Member To Class: ClassName=StartStopEngine Member=Component Q3 TSM60NC1R5CP_ROG
+Added Member To Class: ClassName=StartStopEngine Member=Component R24 2-1879462-9

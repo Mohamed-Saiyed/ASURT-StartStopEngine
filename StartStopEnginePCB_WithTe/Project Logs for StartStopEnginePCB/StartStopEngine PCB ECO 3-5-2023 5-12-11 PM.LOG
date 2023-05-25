@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Brake_Switch Pin=U6-20
+Removed Pin From Net: NetName=StartStopEngineButton Pin=U6-25
+Added Pin To Net: NetName=Brake_Switch Pin=U6-25
+Added Pin To Net: NetName=StartStopEngineButton Pin=U6-40

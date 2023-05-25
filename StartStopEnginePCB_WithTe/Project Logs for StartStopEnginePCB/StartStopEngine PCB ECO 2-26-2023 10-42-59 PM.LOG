@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R14 Old Footprint=RESC3115X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R16 Old Footprint=RESC3115X65N New Footprint=RESC2012X65N
+Change Component Footprint: Designator=R18 Old Footprint=RESC3115X65N New Footprint=RESC2012X65N
+Added Component: Designator=R19(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLM2AER012JTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R19-2
+Added Member To Class: ClassName=StartStopEngine Member=Component R19 TLM2AER012JTE

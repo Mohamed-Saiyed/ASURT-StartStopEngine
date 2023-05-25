@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3V3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Added Member To Class: ClassName=StartStopEngine Member=Component R1 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R3 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R4 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R21 2-1879462-9

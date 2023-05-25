@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R24 Old Footprint=RESC3115X65N New Footprint=RESC2012X65N
+Added Pin To Net: NetName=StartStopEngineButton Pin=R24-1

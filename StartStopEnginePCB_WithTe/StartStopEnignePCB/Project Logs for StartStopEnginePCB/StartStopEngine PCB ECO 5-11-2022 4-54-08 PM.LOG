@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND_P Pin=NT-6
+Removed Pin From Net: NetName=GND Pin=NT-7
+Added Pin To Net: NetName=Digital_Output1 Pin=U6-38
+Added Room: Name=StartStopEngine

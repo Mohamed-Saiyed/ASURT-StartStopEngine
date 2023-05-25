@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=VBAT Pin=R19-2
+Removed Pin From Net: NetName=External On/Off Feature Switch Pin=R22-1
+Removed Pin From Net: NetName=VBAT Pin=R22-2
+Removed Pin From Net: NetName=CAN_N Pin=RC-1
+Removed Pin From Net: NetName=CAN_P Pin=RC-2
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=VBAT Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=External On/Off Feature Switch Pin=U7-4
+Removed Member From Class: ClassName=StartStopEngine Member=R20
+Removed Member From Class: ClassName=StartStopEngine Member=R22
+Removed Member From Class: ClassName=StartStopEngine Member=RC
+Removed Member From Class: ClassName=StartStopEngine Member=U5
+Removed Member From Class: ClassName=StartStopEngine Member=U7
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Added Component: Designator=LED6(LED_CMD17-21VGD_TR8)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Visual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CMD17-21VGD/TR8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CMD17-21VGD/TR8/Visual%20Communications%20Company%20-%20VCC/view-part/1322696/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LED_CMD17-21VGD_TR8)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Visual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CMD17-21VGD/TR8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CMD17-21VGD/TR8/Visual%20Communications%20Company%20-%20VCC/view-part/1322696/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED_CMD17-21VGD_TR8)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Visual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CMD17-21VGD/TR8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CMD17-21VGD/TR8/Visual%20Communications%20Company%20-%20VCC/view-part/1322696/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC3115X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1879462-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1879462-9/TE%20Connectivity/view-part/2213899/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=J-1
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=J-3
+Added Pin To Net: NetName=GND Pin=J-9
+Added Pin To Net: NetName=GND Pin=K2-COM
+Added Pin To Net: NetName=+5 Pin=K2-NC
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=LED6-2
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=COMMON Pin=LED7-2
+Added Pin To Net: NetName=+5 Pin=R18-2
+Change Net Name : Old Net Name=+5 New Net Name=NC
+Change Net Name : Old Net Name=12V New Net Name=StarterMotorRelayPositive
+Change Net Name : Old Net Name=GND New Net Name=COM
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED4_1
+Added Pin To Net: NetName=Brake_Switch Pin=J-11
+Added Pin To Net: NetName=Brake_Switch Pin=U6-17
+Added Net: Name=Brake_Switch
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Net: Name=NetLED8_1
+Added Net: Name=NetQ3_1
+Added Net: Name=NetR18_1
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=StarterMotorRelayNegative Pin=J-2
+Added Net: Name=StarterMotorRelayNegative
+Added Pin To Net: NetName=StarterMotorSignal Pin=K2-NO
+Added Pin To Net: NetName=StarterMotorSignal Pin=LED8-2
+Added Net: Name=StarterMotorSignal
+Added Member To Class: ClassName=StartStopEngine Member=Component LED6 CMD17-21VGD_TR8
+Added Member To Class: ClassName=StartStopEngine Member=Component LED7 CMD17-21VGD_TR8
+Added Member To Class: ClassName=StartStopEngine Member=Component LED8 CMD17-21VGD_TR8

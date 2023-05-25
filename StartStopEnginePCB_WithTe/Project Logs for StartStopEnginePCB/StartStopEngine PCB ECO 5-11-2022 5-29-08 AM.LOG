@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND_P Pin=NT-6
+Removed Pin From Net: NetName=GND Pin=NT-7
+Added Component: Designator=D?(DIOAD1060W80L520D270)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41 Good-Ark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4007/ON%20Semiconductor/view-part/2816213/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NO Pin=D?-A
+Added Pin To Net: NetName=COM Pin=D?-C
+Added Member To Class: ClassName=StartStopEngine Member=Component D? 1N4007
+Added Room: Name=StartStopEngine

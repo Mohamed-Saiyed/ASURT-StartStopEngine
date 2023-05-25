@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=External On/Off Feature Switch Pin=U6-25
+Removed Pin From Net: NetName=StartStopEngineButton Pin=U6-28
+Added Pin To Net: NetName=StartStopEngineButton Pin=U6-25
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=U6-28

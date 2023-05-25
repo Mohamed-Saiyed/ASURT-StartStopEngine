@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND_P Pin=NT-6
+Removed Pin From Net: NetName=GND Pin=NT-7
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Change Component Designator: OldDesignator=C NewDesignator=C19
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=F NewDesignator=F1
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Net Name : Old Net Name=NetD1_C New Net Name=NetD2_C
+Added Member To Class: ClassName=StartStopEngine Member=Component J? 9-6437287-8
+Added Member To Class: ClassName=StartStopEngine Member=Component R21 2-1879462-9
+Added Room: Name=StartStopEngine

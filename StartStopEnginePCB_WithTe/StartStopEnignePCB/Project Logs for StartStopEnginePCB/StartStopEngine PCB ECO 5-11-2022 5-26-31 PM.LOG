@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND_P Pin=?-1_G
+Removed Pin From Net: NetName=12V_IN Pin=?-2_D
+Removed Pin From Net: NetName=12V Pin=?-3_S
+Removed Pin From Net: NetName=GND_P Pin=NT-6
+Removed Pin From Net: NetName=GND Pin=NT-7
+Added Component: Designator=?(TRANS_IRF4905STRRPBF)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=579771"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRF4905STRRPBF/Infineon%20Technologies/view-part/579771/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=579771"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF4905STRRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D2PAK Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF4905STRRPBF/Infineon%20Technologies/view-part/579771/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_P Pin=?-1
+Added Pin To Net: NetName=12V_IN Pin=?-2
+Added Pin To Net: NetName=12V Pin=?-3
+Added Room: Name=StartStopEngine

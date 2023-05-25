@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=StarterTimerControledSignal Pin=U6-14
+Removed Pin From Net: NetName=StartStopEngineButton Pin=U6-15
+Removed Pin From Net: NetName=External On/Off Feature Switch Pin=U6-21
+Removed Pin From Net: NetName=StartStopEngineButtonLed_N Pin=U6-38
+Added Pin To Net: NetName=StartStopEngineButton Pin=U6-14
+Added Pin To Net: NetName=StarterTimerControledSignal Pin=U6-15
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=U6-19
+Added Pin To Net: NetName=StartStopEngineButtonLed_N Pin=U6-26

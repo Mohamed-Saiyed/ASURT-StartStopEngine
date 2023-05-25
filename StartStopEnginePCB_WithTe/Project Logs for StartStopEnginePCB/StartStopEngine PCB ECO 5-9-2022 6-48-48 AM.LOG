@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND_P Pin=NT-6
+Removed Pin From Net: NetName=GND Pin=NT-7
+Removed Pin From Net: NetName=C13 Pin=R4-2
+Added Pin To Net: NetName=Test_LED Pin=R4-2
+Added Pin To Net: NetName=Test_LED Pin=U6-14
+Added Net: Name=Test_LED
+Added Room: Name=StartStopEngine

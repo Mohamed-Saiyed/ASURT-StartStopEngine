@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5 Pin=J-10
+Removed Pin From Net: NetName=Brake_Switch Pin=J-11
+Added Pin To Net: NetName=Brake_Switch Pin=J-10
+Added Pin To Net: NetName=+5 Pin=J-11

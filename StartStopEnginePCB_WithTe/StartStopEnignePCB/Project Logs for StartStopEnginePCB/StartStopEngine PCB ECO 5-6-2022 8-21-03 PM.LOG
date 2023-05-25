@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=StartStopEngineFeature Pin=J-8
+Added Pin To Net: NetName=12V_IN Pin=J-8
+Added Pin To Net: NetName=GND_P Pin=J-15

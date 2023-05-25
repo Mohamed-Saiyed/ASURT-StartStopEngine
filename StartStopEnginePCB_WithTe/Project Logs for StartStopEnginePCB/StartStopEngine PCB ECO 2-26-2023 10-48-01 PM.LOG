@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R23 Old Footprint=RESC3115X65N New Footprint=RESC2012X65N
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=R23-1

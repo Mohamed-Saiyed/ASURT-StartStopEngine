@@ -1,0 +1,89 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Added Component: Designator=R18(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLM2AER012JTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLM2AER012JTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLM2AER012JTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLM2AER012JTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=U5(DIP762W25P254L650H453Q4B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EL817C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Everlight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EL817C/Everlight%20Electronics%20Co%20Ltd/view-part/548216/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(DIP762W25P254L650H453Q4B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EL817C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Everlight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EL817C/Everlight%20Electronics%20Co%20Ltd/view-part/548216/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=R19-1
+Added Pin To Net: NetName=VBAT Pin=R22-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=VBAT Pin=U5-4
+Added Pin To Net: NetName=NetD4_A Pin=U6-43
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=VBAT Pin=U7-4
+Change Net Name : Old Net Name=NetD4_A New Net Name=StarterMotorRelayFeedBack
+Added Pin To Net: NetName=Brake_Switch_IN Pin=R18-1
+Added Pin To Net: NetName=Brake_Switch_IN Pin=R20-1
+Added Net: Name=Brake_Switch_IN
+Added Pin To Net: NetName=Brake_Switch_OUT Pin=R19-2
+Added Pin To Net: NetName=Brake_Switch_OUT Pin=R22-2
+Added Net: Name=Brake_Switch_OUT
+Added Pin To Net: NetName=COMMON Pin=K1-COM
+Added Pin To Net: NetName=COMMON Pin=U4-2
+Added Net: Name=COMMON
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U5-1
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=U7-1
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=StarterMotorRelay Pin=K1-NC
+Added Pin To Net: NetName=StarterMotorRelay Pin=U6-42
+Added Net: Name=StarterMotorRelay
+Added Pin To Net: NetName=StartStopEngineButton Pin=J-1
+Added Pin To Net: NetName=StartStopEngineButton Pin=K1-NO
+Added Pin To Net: NetName=StartStopEngineButton Pin=U6-46
+Added Net: Name=StartStopEngineButton
+Added Pin To Net: NetName=StartStopEngineFeature Pin=J-8
+Added Pin To Net: NetName=StartStopEngineFeature Pin=U3-2
+Added Pin To Net: NetName=StartStopEngineFeature Pin=U6-39
+Added Pin To Net: NetName=StartStopEngineFeature Pin=U6-45
+Added Net: Name=StartStopEngineFeature
+Added Member To Class: ClassName=StartStopEngine Member=Component K2 SRD-05VDC-SL-C
+Added Member To Class: ClassName=StartStopEngine Member=Component R18 TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R19 TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R20 TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R22 TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component U5 EL817C
+Added Member To Class: ClassName=StartStopEngine Member=Component U7 EL817C

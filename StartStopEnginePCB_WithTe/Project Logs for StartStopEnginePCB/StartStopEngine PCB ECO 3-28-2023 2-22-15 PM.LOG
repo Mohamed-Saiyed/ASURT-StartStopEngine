@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND_P Pin=NT-6
+Removed Pin From Net: NetName=GND Pin=NT-7
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Added Pin To Net: NetName=GND Pin=J2-15
+Added Pin To Net: NetName=GND Pin=J2-16
+Added Pin To Net: NetName=GND Pin=J2-23
+Added Pin To Net: NetName=+5 Pin=J2-24
+Added Pin To Net: NetName=GND Pin=J2-25
+Added Pin To Net: NetName=+5 Pin=J2-26
+Added Room: Name=StartStopEngine

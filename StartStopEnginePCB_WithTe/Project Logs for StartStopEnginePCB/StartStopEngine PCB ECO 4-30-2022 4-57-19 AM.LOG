@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=+5 Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=CAN_TX Pin=M?-1
+Removed Pin From Net: NetName=GND Pin=M?-2
+Removed Pin From Net: NetName=+5 Pin=M?-3
+Removed Pin From Net: NetName=CAN_RX_ Pin=M?-4
+Removed Pin From Net: NetName=NetM?_8 Pin=M?-8
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=NetM?_8 Pin=R?-2
+Added Component: Designator=C?(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LD055A561FAB2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LD055A561FAB2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LD055A561FAB2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=M?(DIP787W46P254L927H533Q8)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2551-E/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2551-E/P/Microchip/view-part/38882/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLM2AER012JTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=CANL_N Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=CANH_P Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=CAN_TX Pin=M?-1
+Added Pin To Net: NetName=GND Pin=M?-2
+Added Pin To Net: NetName=+5 Pin=M?-3
+Added Pin To Net: NetName=CAN_RX_ Pin=M?-4
+Added Pin To Net: NetName=CANL_N Pin=M?-6
+Added Pin To Net: NetName=CANH_P Pin=M?-7
+Added Pin To Net: NetName=NetM?_8 Pin=M?-8
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetM?_8 Pin=R?-2
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? EEEFK1V221GP
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? C1206C130J1GACTU
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? EEE1HA101UP
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component D? SS34
+Added Member To Class: ClassName=StartStopEngine Member=Component K? SRD-05VDC-SL-C
+Added Member To Class: ClassName=StartStopEngine Member=Component LED? CMD17-21VGD_TR8
+Added Member To Class: ClassName=StartStopEngine Member=Component LED? CMD17-21VGD_TR8
+Added Member To Class: ClassName=StartStopEngine Member=Component LED? CMD17-21VGD_TR8
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=StartStopEngine Member=Component U? LM2596SX-ADJ/NOPB

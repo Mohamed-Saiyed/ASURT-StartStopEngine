@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=External On/Off Feature Switch Pin=J?-11
+Removed Pin From Net: NetName=Brake_Switch_Con Pin=J?-12
+Removed Pin From Net: NetName=+5 Pin=J?-16
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Change Component Description : Designator=F Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | Bulk Pack | 250mA
+Added Component: Designator=SC(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Brake_Switch_Con Pin=J?-11
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=J?-12
+Added Pin To Net: NetName=GND Pin=J?-13
+Added Pin To Net: NetName=+5 Pin=J?-18
+Added Pin To Net: NetName=+5 Pin=J?-19
+Added Pin To Net: NetName=GND Pin=SC-1
+Added Pin To Net: NetName=+5 Pin=SC-2
+Added Pin To Net: NetName=GND Pin=SC-3
+Added Pin To Net: NetName=+3V3 Pin=SC-4
+Added Member To Class: ClassName=StartStopEngine Member=Component J? 9-6437287-8
+Added Member To Class: ClassName=StartStopEngine Member=Component SC Header 4
+Added Room: Name=StartStopEngine

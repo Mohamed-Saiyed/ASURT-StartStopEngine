@@ -1,0 +1,12 @@
+Added Component: Designator=L?(IND_CDRH127/LDNP-470MC_SUM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CDRH127/LDNP-470MC/Sumida%20America%20Components%20Inc./view-part/547921/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "308-1339-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sumida America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CDRH127/LDNP-470MC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Sumida"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CDRH127/LDNP-470MC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CDRH127/LDNP-470MC/Sumida%20America%20Components%20Inc./view-part/547921/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=StartStopEngine Member=Component C? C1206C130J1GACTU
+Added Member To Class: ClassName=StartStopEngine Member=Component J 5747841-4
+Added Member To Class: ClassName=StartStopEngine Member=Component L? CDRH127/LDNP-470MC

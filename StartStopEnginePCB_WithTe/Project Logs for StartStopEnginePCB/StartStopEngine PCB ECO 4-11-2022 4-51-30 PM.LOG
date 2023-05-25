@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=U-1
+Removed Pin From Net: NetName=GND Pin=U-2
+Removed Pin From Net: NetName=NetC?_1 Pin=U-3
+Added Pin To Net: NetName=GND Pin=J-2
+Added Pin To Net: NetName=GND Pin=U-1
+Added Pin To Net: NetName=NetC?_P Pin=U-1
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=NetD?_C Pin=U-2
+Added Pin To Net: NetName=GND Pin=U-3
+Added Pin To Net: NetName=NetC?_1 Pin=U-3
+Added Pin To Net: NetName=GND Pin=U?-24
+Added Member To Class: ClassName=StartStopEngine Member=Component C? EEUFC1V221L
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? EEUFC1V221L
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component U LM2596T-5.0

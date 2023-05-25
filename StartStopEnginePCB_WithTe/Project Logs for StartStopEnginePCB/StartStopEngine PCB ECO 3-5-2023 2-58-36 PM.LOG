@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=StarterMotorRelayNegative Pin=Q3-3
+Removed Pin From Net: NetName=+5 Pin=R24-1
+Removed Pin From Net: NetName=StartStopEngineButton Pin=R24-2
+Removed Pin From Net: NetName=StartStopEngineButton Pin=U6-14
+Removed Pin From Net: NetName=Brake_Switch Pin=U6-17
+Removed Pin From Net: NetName=External On/Off Feature Switch Pin=U6-19
+Removed Pin From Net: NetName=StarterMotorRelayFeedBack Pin=U6-25
+Removed Pin From Net: NetName=StartStopEngineButtonLed_N Pin=U6-26
+Change Component Description : Designator=F Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | Bulk Pack | 250mA
+Added Component: Designator=Q3(TRANS_TSM60NC1R5CP_ROG)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSM60NC1R5CP%20ROG/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM60NC1R5CP ROG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-252 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TSM60NC1R5CP ROG/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSM60NC1R5CP%20ROG/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLM2AER012JTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1879462-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1879462-9/TE%20Connectivity/view-part/2213899/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1879462-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1879462-9/TE%20Connectivity/view-part/2213899/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=StarterMotorRelayNegative Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=StartStopEngineButton Pin=R24-1
+Added Pin To Net: NetName=+5 Pin=R24-2
+Added Pin To Net: NetName=Brake_Switch Pin=R25-1
+Added Pin To Net: NetName=+5 Pin=R25-2
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=U6-22
+Added Pin To Net: NetName=Brake_Switch Pin=U6-25
+Added Pin To Net: NetName=StarterMotorRelayFeedBack Pin=U6-26
+Added Pin To Net: NetName=StartStopEngineButtonLed_N Pin=U6-27
+Added Pin To Net: NetName=StartStopEngineButton Pin=U6-28
+Added Pin To Net: NetName=NMOS_Gate Pin=Q3-1
+Added Pin To Net: NetName=NMOS_Gate Pin=R19-2
+Added Pin To Net: NetName=NMOS_Gate Pin=R20-2
+Added Net: Name=NMOS_Gate
+Added Member To Class: ClassName=StartStopEngine Member=Component R20 TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R25 2-1879462-9
+Added Room: Name=StartStopEngine

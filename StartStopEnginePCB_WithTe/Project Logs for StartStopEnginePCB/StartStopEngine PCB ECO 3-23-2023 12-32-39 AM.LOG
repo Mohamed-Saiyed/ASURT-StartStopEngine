@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CAN_N Pin=D7-1
+Removed Pin From Net: NetName=CAN_P Pin=D7-2
+Added Pin To Net: NetName=CAN_P Pin=D7-1
+Added Pin To Net: NetName=CAN_N Pin=D7-2
+Added Member To Class: ClassName=StartStopEngine Member=Component J? 9-6437287-8

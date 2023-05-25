@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R7 Old Footprint=RESC2012X65N New Footprint=RES_0805
+Change Component Description : Designator=F Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | Bulk Pack | 250mA
+Added Member To Class: ClassName=StartStopEngine Member=Component J? 9-6437287-8

@@ -1,0 +1,47 @@
+Added Component: Designator=J?(CUI_PJ-002B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-002b?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PJ-002B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PJ-002B/CUI%20Devices/view-part/697203/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V_IN Pin=J?-1
+Added Pin To Net: NetName=GND_P Pin=J?-2
+Added Pin To Net: NetName=GND_P Pin=J?-3
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? EEEFK1V221GP
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? EEE1HA101UP
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? C1206C130J1GACTU
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component C? LD055A561FAB2A
+Added Member To Class: ClassName=StartStopEngine Member=Component D? SS34
+Added Member To Class: ClassName=StartStopEngine Member=Component J? PJ-002B
+Added Member To Class: ClassName=StartStopEngine Member=Component K? SRD-05VDC-SL-C
+Added Member To Class: ClassName=StartStopEngine Member=Component LED? CMD17-21VGD_TR8
+Added Member To Class: ClassName=StartStopEngine Member=Component LED? CMD17-21VGD_TR8
+Added Member To Class: ClassName=StartStopEngine Member=Component LED? CMD17-21VGD_TR8
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? 2-1879462-9
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component R? TLM2AER012JTE
+Added Member To Class: ClassName=StartStopEngine Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=StartStopEngine Member=Component U? LM2596SX-ADJ/NOPB

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=StartStopFeatureSwitch_IN Pin=J-12
+Added Pin To Net: NetName=StartStopFeatureSwitch_IN Pin=J-3

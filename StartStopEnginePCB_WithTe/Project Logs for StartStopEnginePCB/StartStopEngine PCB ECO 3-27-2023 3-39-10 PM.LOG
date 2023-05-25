@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL_ECS-80-18-4XDN New Footprint=XTAL_ABLS-16.000MHZ-D4-T
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | Bulk Pack | 250mA
+Added Room: Name=StartStopEngine

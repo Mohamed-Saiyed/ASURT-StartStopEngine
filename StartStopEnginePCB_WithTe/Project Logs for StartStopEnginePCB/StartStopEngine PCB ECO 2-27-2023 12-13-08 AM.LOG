@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=COM Pin=J-9
+Change Component Description : Designator=F Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | Bulk Pack | 250mA
+Change Net Name : Old Net Name=COM New Net Name=GND
+Change Net Name : Old Net Name=NC New Net Name=+5
+Added Pin To Net: NetName=COM Pin=J-9
+Added Net: Name=COM

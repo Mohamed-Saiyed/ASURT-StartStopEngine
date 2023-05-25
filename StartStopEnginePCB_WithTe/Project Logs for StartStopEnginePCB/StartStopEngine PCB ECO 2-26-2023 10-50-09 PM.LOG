@@ -1,0 +1,13 @@
+Added Component: Designator=U5(DIP762W25P254L650H453Q4B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EL817C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Everlight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EL817C/Everlight%20Electronics%20Co%20Ltd/view-part/548216/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR18_1 Pin=U5-1
+Added Pin To Net: NetName=NetLED8_1 Pin=U5-2
+Added Pin To Net: NetName=NetR19_1 Pin=U5-3
+Added Pin To Net: NetName=StarterMotorRelayPositive Pin=U5-4
+Added Member To Class: ClassName=StartStopEngine Member=Component U5 EL817C

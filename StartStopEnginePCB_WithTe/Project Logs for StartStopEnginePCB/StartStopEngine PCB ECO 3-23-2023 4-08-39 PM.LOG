@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED12V
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED5V
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED3V3
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED3V3_1
+Added Room: Name=StartStopEngine

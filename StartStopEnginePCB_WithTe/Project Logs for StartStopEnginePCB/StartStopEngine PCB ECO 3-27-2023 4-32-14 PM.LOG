@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=K2-COM
+Removed Pin From Net: NetName=StarterMotorRelayFeedBack Pin=K2-NO
+Added Pin To Net: NetName=StarterMotorRelayFeedBack Pin=K2-COM
+Added Pin To Net: NetName=GND Pin=K2-NO
+Added Room: Name=StartStopEngine

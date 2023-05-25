@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=StartStopEngineButton Pin=J-9
+Removed Pin From Net: NetName=+5 Pin=J-11
+Added Pin To Net: NetName=+5 Pin=J-9
+Added Pin To Net: NetName=StartStopEngineButton Pin=J-11

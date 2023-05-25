@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=J-2
+Removed Pin From Net: NetName=StartStopFeatureSwitch_IN Pin=J-9
+Added Pin To Net: NetName=COM Pin=J-9
+Added Pin To Net: NetName=COM Pin=K2-COM
+Added Net: Name=COM
+Added Pin To Net: NetName=NC Pin=J-3
+Added Pin To Net: NetName=NC Pin=K2-NC
+Added Net: Name=NC
+Added Pin To Net: NetName=NO Pin=J-2
+Added Pin To Net: NetName=NO Pin=K2-NO
+Added Net: Name=NO

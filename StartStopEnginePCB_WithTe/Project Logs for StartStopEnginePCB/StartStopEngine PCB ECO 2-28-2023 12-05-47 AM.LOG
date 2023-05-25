@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CAN_N Pin=CAN_120R-2
+Removed Pin From Net: NetName=CAN_P Pin=J-4
+Removed Pin From Net: NetName=CAN_N Pin=J-5
+Removed Pin From Net: NetName=StartStopEngineButton Pin=J-6
+Removed Pin From Net: NetName=External On/Off Feature Switch Pin=J-7
+Removed Pin From Net: NetName=StartStopEngineButtonLed_N Pin=J-9
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Removed Member From Class: ClassName=StartStopEngine Member=CAN_120R
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=J-4
+Added Pin To Net: NetName=CAN_N Pin=J-6
+Added Pin To Net: NetName=CAN_P Pin=J-7
+Added Pin To Net: NetName=StartStopEngineButton Pin=J-9
+Added Pin To Net: NetName=CAN_N Pin=R9-2
+Change Net Name : Old Net Name=CAN_N New Net Name=CAN_120

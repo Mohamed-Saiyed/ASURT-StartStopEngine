@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=Brake_Switch Pin=U6-17
+Removed Pin From Net: NetName=External On/Off Feature Switch Pin=U6-19
+Removed Pin From Net: NetName=StarterMotorRelayFeedBack Pin=U6-25
+Removed Pin From Net: NetName=StartStopEngineButtonLed_N Pin=U6-26
+Added Component: Designator=R25(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1879462-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1879462-9/TE%20Connectivity/view-part/2213899/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Brake_Switch Pin=R25-1
+Added Pin To Net: NetName=+5 Pin=R25-2
+Added Pin To Net: NetName=External On/Off Feature Switch Pin=U6-22
+Added Pin To Net: NetName=Brake_Switch Pin=U6-25
+Added Pin To Net: NetName=StarterMotorRelayFeedBack Pin=U6-26
+Added Pin To Net: NetName=StartStopEngineButtonLed_N Pin=U6-27
+Added Member To Class: ClassName=StartStopEngine Member=Component R25 2-1879462-9

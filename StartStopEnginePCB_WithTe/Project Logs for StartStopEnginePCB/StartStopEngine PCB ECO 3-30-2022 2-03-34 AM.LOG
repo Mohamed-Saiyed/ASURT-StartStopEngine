@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=LED-2
+Removed Pin From Net: NetName=GND Pin=U-1
+Removed Pin From Net: NetName=NetC?_1 Pin=U-3
+Removed Member From Class: ClassName=StartStopEngine Member=LED
+Added Pin To Net: NetName=GND Pin=U-1
+Added Pin To Net: NetName=NetC?_P Pin=U-1
+Added Pin To Net: NetName=GND Pin=U-3
+Added Pin To Net: NetName=NetC?_1 Pin=U-3
+Added Member To Class: ClassName=StartStopEngine Member=Component C? C1206C130J1GACTU
+Added Member To Class: ClassName=StartStopEngine Member=Component C? EEUFC1V221L
+Added Member To Class: ClassName=StartStopEngine Member=Component C? EEUFC1V221L
+Added Member To Class: ClassName=StartStopEngine Member=Component C? C1206C130J1GACTU
+Added Member To Class: ClassName=StartStopEngine Member=Component C? C1206C130J1GACTU
+Added Member To Class: ClassName=StartStopEngine Member=Component U LM2596T-5.0

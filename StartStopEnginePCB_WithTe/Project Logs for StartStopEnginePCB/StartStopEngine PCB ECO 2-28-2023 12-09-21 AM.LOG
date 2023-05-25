@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=J-12
+Removed Pin From Net: NetName=StarterMotorRelayFeedBack Pin=J-14
+Added Pin To Net: NetName=StarterMotorRelayFeedBack Pin=J-12
+Added Pin To Net: NetName=GND Pin=J-14

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=StartStopEngineFeature Pin=J-12
+Removed Pin From Net: NetName=Brake_Switch_IN Pin=R20-1
+Removed Pin From Net: NetName=Brake_Switch_OUT Pin=R22-2
+Added Pin To Net: NetName=StartStopEngineFeature Pin=R22-2
+Added Pin To Net: NetName=StartStopFeatureSwitch_IN Pin=J-9
+Added Pin To Net: NetName=StartStopFeatureSwitch_IN Pin=R20-1
+Added Net: Name=StartStopFeatureSwitch_IN
